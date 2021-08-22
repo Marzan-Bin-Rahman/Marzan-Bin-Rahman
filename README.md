@@ -1,4 +1,4 @@
-### Hi there 👋, hey, this is Marzan
+### Hi there 👋 this is Marzan
 #### A passionate Mern Stack dev
 ![A passionate Mern Stack dev](https://github.com/Marzan-Bin-Rahman/Marzan-Bin-Rahman/blob/main/Untitled%20design.png)
 
@@ -21,6 +21,7 @@ Skills: HTML / CSS
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marzan-Bin-Rahman)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marzan-Bin-Rahman&show_icons=true)  
