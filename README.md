@@ -1,6 +1,6 @@
 ### Hi there 👋, hey, this is Marzan
 #### A passionate Mern Stack dev
-![A passionate Mern Stack dev](github.com/Marzan-Bin-Rahman/Marzan-Bin-Rahman/blob/main/Untitled%20design.png)
+![A passionate Mern Stack dev](https://github.com/Marzan-Bin-Rahman/Marzan-Bin-Rahman/blob/main/Untitled%20design.png)
 
 I am the laziest web dev ever
 
@@ -23,5 +23,5 @@ Skills: HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Marzan-Bin-Rahman)  
 
-![Profile views](https://gpvc.arturio.dev/Marzan-Bin-Rahman)  
+![Profile views](https://gpvc.arturio.dev/Marzan-Bin-Rahman)    
 
