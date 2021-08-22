@@ -11,7 +11,7 @@ Skills: HTML / CSS
 - 💬 Ask me about HTML, CSS 
 - 😄 Pronouns: He/ Him 
 - ⚡ Fun fact: I am very lazy 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/Marzan-Bin-Rahman)
+- 👨‍💻 All of my projects are available at [https://github.com/Marzan-Bin-Rahman](https://github.com/Marzan-Bin-Rahman)
 - How to reach me **mailhereformarzan@gmail.com**
 
 ![Profile views](https://gpvc.arturio.dev/Marzan-Bin-Rahman) 
