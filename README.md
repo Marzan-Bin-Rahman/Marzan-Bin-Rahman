@@ -1,6 +1,6 @@
 ### Hi there 👋 this is Marzan
 #### A passionate Mern Stack dev
-![A passionate Mern Stack dev](https://github.com/Marzan-Bin-Rahman/Marzan-Bin-Rahman/blob/main/Untitled%20design.png)
+![A passionate Mern Stack dev](https://github.com/Marzan-Bin-Rahman/Marzan-Bin-Rahman/blob/main/MARZAN%20BIN%20RAHMAN.png)
 
 I am the laziest web dev ever
 
