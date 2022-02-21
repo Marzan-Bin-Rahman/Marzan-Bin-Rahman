@@ -21,14 +21,17 @@ Skills: HTML / CSS
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marzan-Bin-Rahman)](https://github.com/Marzan-Bin-Rahman/github-readme-stats)
+  
 
-![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marzan-Bin-Rahman&show_icons=true&theme=radical)
+## My Stats 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Marzan-Bin-Rahman)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marzan-Bin-Rahman&hide_border=true&theme=tokyonight)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Marzan-Bin-Rahman)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marzan-Bin-Rahman&show_icons=true&hide_border=true&theme=tokyonight)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Marzan-Bin-Rahman&theme=tokyonight)  
+ 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Marzan-Bin-Rahman&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
    
 
