@@ -24,7 +24,7 @@ Skills: HTML / CSS
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marzan-Bin-Rahman)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marzan-Bin-Rahman&show_icons=true)  
+![Marzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marzan-Bin-Rahman&show_icons=true&theme=radical)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Marzan-Bin-Rahman)  
 
