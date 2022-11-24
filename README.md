@@ -9,7 +9,7 @@ You might be astonished seeing why am i a student. Okay, to answer learning is a
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio at [Marzan's Portfolio](http://marzan.me)
 * ✉️  You can contact me at [mailhereformarzan@gmail.com](mailto:mailhereformarzan@gmail.com)
-* 🚀  I'm currently working on [Taka-marbo](http://taka-marbo)
+* 🚀  I'm currently working on [Syscomatic Portfolio](http://syscomatic.com)
 * 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on Linux
 * ⚡  My favorite OS is Zorin OS
