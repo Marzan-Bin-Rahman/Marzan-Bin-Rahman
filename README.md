@@ -46,7 +46,7 @@ src="https://img.shields.io/github/followers/Marzan-Bin-Rahman?logo=github&style
 
 <a href="http://www.github.com/Marzan-Bin-Rahman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marzan-Bin-Rahman&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Marzan-Bin-Rahman"><img src="https://activity-graph.herokuapp.com/graph?username=Marzan-Bin-Rahman&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/Marzan-Bin-Rahman"><img src="https://activity-graph.herokuapp.com/graph?username=Marzan-Bin-Rahman&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 [![Marzan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marzan-Bin-Rahman&bg_color=080808&color=2ecc97&line=2dd24e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
