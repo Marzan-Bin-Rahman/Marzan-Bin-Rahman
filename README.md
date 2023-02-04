@@ -14,7 +14,7 @@ You might be astonished seeing why am i a student. Okay, to answer learning is a
 * 🤝  I'm open to collaborating on Linux
 * ⚡  My favorite OS is Zorin OS
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Marzan-Bin-Rahman/Marzan-Bin-Rahman/blob/master/devcard.svg" width="400" alt="Marzan's Dev Card"/></a>
+<a href="https://marzan.me"><img src="https://github.com/Marzan-Bin-Rahman/Marzan-Bin-Rahman/blob/master/devcard.svg" width="400" alt="Marzan's Dev Card"/></a>
 
 <a href="https://www.twitter.com/marzanbinrahman" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/marzanbinrahman?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
